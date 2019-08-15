@@ -8,6 +8,7 @@ E ai. Você sabe o que é um Carpano?
 Aqui serão listadas todas as opções disponíveis pra você arromb@!#! o PC do seu amigo.
 
 | Comando | Descrição |
+|---------|-----------|
 | (vazio) | Rola um questionário perguntando se você sabe o que é carpano |
 | --help  | Diz o que é carpano e mostra a versão atual |
 | --tutorial | Abre um vídeo tutorial no browser principal mostrando como reproduzir um orgão sexual masculino em um pedaço de pano |

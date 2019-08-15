@@ -1,6 +1,6 @@
 {
   "name": "carpano",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Just a joke for my closest friends &lt;3",
   "main": "bin/index.js",
   "scripts": {
