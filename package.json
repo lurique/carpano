@@ -1,6 +1,6 @@
 {
   "name": "carpano",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Just a joke for my closest friends &lt;3",
   "main": "bin/index.js",
   "scripts": {
@@ -20,11 +20,11 @@
     "url": "https://github.com/lurique/carpano.js/issues"
   },
   "homepage": "https://github.com/lurique/carpano.js#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "inquirer": "^6.5.1",
     "node-notifier": "^5.4.1",
     "open": "^6.4.0",
     "opn": "^6.0.0"
-  },
-  "dependencies": {}
+  }
 }

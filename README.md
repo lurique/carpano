@@ -1,9 +1,16 @@
-# Carpano.js
-Just a joke for my closest friends &lt;3
+# Carpano
+E ai. Você sabe o que é um Carpano?
 
-## Installing
-There's just a single type of installation (npm global package). Just run the command `npm i -g carpano.js`.
+## Instalação
+É mais fácil que nadar no seco, só rodar `npm i -g carpano` na máquina do seu "amiguinho".
 
-## Options
-| Command | Description |
-| --help  | Default: "Meu caralho enrolado num pano" |
+## Opções
+Aqui serão listadas todas as opções disponíveis pra você arromb@!#! o PC do seu amigo.
+
+| Comando | Descrição |
+| (vazio) | Rola um questionário perguntando se você sabe o que é carpano |
+| --help  | Diz o que é carpano e mostra a versão atual |
+| --tutorial | Abre um vídeo tutorial no browser principal mostrando como reproduzir um orgão sexual masculino em um pedaço de pano |
+| --notify | Envia uma OS Notification a cada 1 minuto explicando o que é carpano |
+
+Mais opções e ajustes em breve.

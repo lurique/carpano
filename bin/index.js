@@ -30,7 +30,7 @@ if ( args.length === 0 ) {
 }
 
 args.map((arg, index) => {
-  if ( arg === '--help' ) return console.log("Meu caralho enrolado num pano - v0.0.1");
+  if ( arg === '--help' ) return console.log("Meu caralho enrolado num pano - v0.0.4");
   if ( arg === '--tutorial' ) return open('https://www.youtube.com/watch?v=eeBP1wQzsm0');
   
   if ( arg === '--notify' ) {
