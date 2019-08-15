@@ -1,10 +1,13 @@
 {
   "name": "carpano",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just a joke for my closest friends &lt;3",
   "main": "bin/index.js",
   "scripts": {
     "carpano": "node ./bin/index.js"
+  },
+  "bin": {
+    "carpano": "./bin/index.js"
   },
   "repository": {
     "type": "git",
