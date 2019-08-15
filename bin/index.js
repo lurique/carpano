@@ -34,20 +34,22 @@ args.map((arg, index) => {
   if ( arg === '--tutorial' ) return open('https://www.youtube.com/watch?v=eeBP1wQzsm0');
   
   if ( arg === '--notify' ) {
-    notifier.notify({
-      title: `${os.userInfo().username.toUpperCase()}`,
-      message: "Vc sabe o que eh carpano?",
-      icon: path.join(__dirname, '../icons/icon.png'),
-      sound: true
-    })
-
-    setTimeout(function() {
+    setInterval(() => {
       notifier.notify({
-        title: ``,
-        message: "Eh meu caralho enrolado num pano!",
+        title: `${os.userInfo().username.toUpperCase()}`,
+        message: "Vc sabe o que eh carpano?",
         icon: path.join(__dirname, '../icons/icon.png'),
         sound: true
       })
-    }, 5000);
+  
+      setTimeout(function() {
+        notifier.notify({
+          title: ``,
+          message: "Eh meu caralho enrolado num pano!",
+          icon: path.join(__dirname, '../icons/icon.png'),
+          sound: true
+        })
+      }, 5000);
+    }, 60000);
   }
 });
