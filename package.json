@@ -23,7 +23,7 @@
   "devDependencies": {},
   "dependencies": {
     "inquirer": "^6.5.1",
-    "node-notifier": "^5.4.1",
+    "node-notifier": "^8.0.1",
     "open": "^6.4.0",
     "opn": "^6.0.0"
   }
